@@ -1,3 +1,2 @@
 # devops
-#from devops classes
-### on main branch
+#from devops class

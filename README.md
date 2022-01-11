@@ -1,2 +1,2 @@
 # devops
-#from devops classes
+# devops classes

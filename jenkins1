@@ -9,7 +9,7 @@ pipeline(){
         }
         stage('second stage'){
             steps{
-                sh "cat /etc/os-release"
+                sh "free -h"
             }
             
         }

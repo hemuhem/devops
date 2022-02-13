@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pipeline(){
     agent any 
     stages(){
@@ -16,3 +17,6 @@ pipeline(){
     }
     
 }
+=======
+hello "govindu"
+>>>>>>> c3ba0107cb5974c6e44fefd88061aecb28b34090

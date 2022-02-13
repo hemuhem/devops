@@ -13,6 +13,11 @@ pipeline(){
             }
             
         }
+        stage('third stage'){
+           steps{
+               sh "df -h"
+       }
     }
     
+  }
 }

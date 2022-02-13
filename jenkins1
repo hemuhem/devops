@@ -3,13 +3,13 @@ pipeline(){
     stages(){
         stage('first stage'){
             steps{
-                sh "df -h"
+                sh "du -h"
             }
             
         }
         stage('second stage'){
             steps{
-                sh "free -h"
+                sh "mpstat"
             }
             
         }
